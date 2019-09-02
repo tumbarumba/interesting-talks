@@ -1,0 +1,75 @@
+# Sustaining Remote-First Teams
+
+**Rachel Davies, TES**
+
+- Slides: https://vimeo.com/talkingslides2/review/349315847/6307485755
+
+- The things that we do that can help us work remotely from home
+- Rachel - long commute
+- Original advice from agile gurus:
+  - Agile Manifesto, 2001:
+    - > "The most efficient and effective method of conveying information to and within a
+    development team is face-to-face conversation"
+  - XP Explained (2nd Edition): Sit together
+    - > "most people agree that face to face conversation is the best form of communication, have your team sit together in the same space without barriers to communication, such as cubicle walls"
+- Rachel works as TES
+  - Times Educational Supplement
+  - Jobs board for teachers
+  - 50 engineers, divided into "Product Squads"
+  - Rachel currently responsible for advertisers UI
+  - Company vision:
+    - > "We believe in the power of great teaching. We support and connect teachers and schools worldwide, helping them to improve children's lives through education"
+- Remote first policy:
+  - > "Any work done outside of the London office. This can include working on the train, working from home, or working from any location in the world where a team member is available to deliver work."
+- Remote first in practice:
+  - We follow the principle that remote participants should be respected.
+  - Even if most participants of a meeting are in the office, we will use video meeting if one person is remote
+  - On the rare occasion that we have an in-person workshop with people in a room, we ensure that a proper mic is used so that everyone can hear the conversation.
+  - Department wide meetings are often recorded for people who cannot attend due to timezones.
+- Quotes from survey:
+  - > "It changed my life! I can't go back to the pain of commuting to Central London every day"
+  - > "I'm wayyyy more productive working remotely"
+  - > "I find remote pairing as good as if not better than actually pairing in person"
+  - > "I think it takes experimentation to work out what's right for you"
+- Tools we use:
+  - Zoom for video calls and screen sharing
+  - Slack for messaging
+  - GitHub + Zenhub for tickets
+  - Containers for easy remote development
+  - Miro for whiteboard
+- Contact habits:
+  - Mark availability in Slack
+  - Chat about personal stuff before stand-up/pairing
+  - Remote pairing with video on
+- Pairing / Mobbing
+  - Driver shares screen
+  - Swap every hour or so
+  - Push WIP to branch
+  - Work solo for simple tasks
+- Cross-team meetings
+  - Product demo
+  - Monthly hack days
+    - e.g. Developer profiles
+  - Knowledge sharing
+    - Every week
+    - Talks and conference reports
+- Loneliness!
+  - Regular 1:1 meetings, mentor + principal engineer
+  - Coffee roulette
+  - Sharing moments
+    - Unboxing ceremonies
+    - House tours
+    - Window views
+    - Pets and babies
+  - Conference trips
+  - Engineering week
+  - Remote party!
+- Business benefits
+  - Widen talent pool
+  - Retain skilled engineers
+  - Less office space required
+  - Work day spans multiple timezones
+- Summing up:
+  - Clear "remote-first" policy
+  - Invest in cross-team initiatives
+  - Support for social time
